@@ -30,6 +30,7 @@ LEFT JOIN cars c
 ON s.car_id = c.car_id
 GROUP BY 1,2
 ;
+-- 4.What are the details of the cars sold by each salesperson?
 
 SELECT s.salesman_id,
 p.name, 
