@@ -1,7 +1,11 @@
-# Challenge_1_SteelData
+#  Car shop Challenge
+
+![steveshowroom](https://github.com/mfernandezcean/Challenge_1_SteelData/assets/105746149/3178b4d0-c74b-4f7c-aa47-ca4518fa1c9c)
+
+
 [Link to Steel Data Challenge](https://steeldata.org.uk/sql1.html)
 
-Car shop Challenge
+
 
 **QUESTIONS:**
  1. What are the details of all cars purchased in the year 2022?
@@ -22,3 +26,7 @@ Car shop Challenge
 SELECT *
 FROM cars;
 
+![vsdvds](https://github.com/mfernandezcean/Challenge_1_SteelData/assets/105746149/55a6ad29-004e-46a4-91e1-7ec8cec0f7fa)
+--
+
+2-What is the total number of cars sold by each salesperson?
