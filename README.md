@@ -30,3 +30,13 @@ FROM cars;
 --
 
 2-What is the total number of cars sold by each salesperson?
+
+SELECT s.salesman_id,
+p.name,
+COUNT(sale_id) AS Sales
+FROM sales s 
+LEFT JOIN salespersons p
+ON p.salesman_id =s.salesman_id
+GROUP BY 1,2;
+
+![ascasca](https://github.com/mfernandezcean/Challenge_1_SteelData-MySQL-/assets/105746149/deac8fdc-854a-4dca-9b6c-f47ae200f212)
