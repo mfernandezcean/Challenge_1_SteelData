@@ -23,8 +23,8 @@
 
 1-What are the details of all cars purchased in the year 2022?
 
-SELECT *
-FROM cars;
+    SELECT * 
+    FROM cars;
 
 ![vsdvds](https://github.com/mfernandezcean/Challenge_1_SteelData/assets/105746149/55a6ad29-004e-46a4-91e1-7ec8cec0f7fa)
 --
